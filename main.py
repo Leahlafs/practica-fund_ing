@@ -1,26 +1,9 @@
-print("Hola equipo, este es el inicio del proyecto")
+def saludo():
+    return "Hola desde rama2"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Initial commit: Added main.py
-
+git add utils.py
+git commit -m "Agregado archivo utils en rama2"
+git push origin rama2
 
 
 
