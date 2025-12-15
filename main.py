@@ -1,4 +1,11 @@
-print("Hola equipo, este es el inicio del proyecto")
+print("Cambio desde rama1: nueva funcionalidad")
+
+
+
+
+git add main.py
+git commit -m "Agregada funcionalidad en rama1"
+git push origin rama1
 
 
 
@@ -12,14 +19,6 @@ print("Hola equipo, este es el inicio del proyecto")
 
 
 
-
-
-
-
-
-
-
-Initial commit: Added main.py
 
 
 
