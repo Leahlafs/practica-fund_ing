@@ -1,4 +1,5 @@
-print("Hola equipo, este es el inicio del proyecto")
+
+print("Conflicto resuelto: combinación de rama1 y rama2")
 
 
 
@@ -15,8 +16,9 @@ print("Hola equipo, este es el inicio del proyecto")
 
 
 
-
-
+git add main.py
+git commit -m "Conflicto resuelto"
+git push origin main
 
 
 Initial commit: Added main.py
