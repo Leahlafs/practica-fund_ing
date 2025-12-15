@@ -1,0 +1,30 @@
+print("Hola equipo, este es el inicio del proyecto")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Initial commit: Added main.py
+
+
+
+
+
+
+
+
